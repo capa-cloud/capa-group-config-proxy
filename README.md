@@ -1,0 +1,1 @@
+# capa-group-config-proxy
